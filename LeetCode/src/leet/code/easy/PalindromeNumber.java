@@ -1,5 +1,10 @@
 package leet.code.easy;
 
+/*
+ * Given an integer x, return true if x is palindrome integer.
+ * An integer is a palindrome when it reads the same backward as forward.
+ */
+
 public class PalindromeNumber {
 	public boolean isPalindrome(int x) {
 		if(x == 0) {
